@@ -5,18 +5,6 @@
 
 Welcome to demo's documentation!
 ================================
-
-Contents:
-
-.. toctree::
-   :maxdepth: 2
-
-   
-   category2
-   category3
-   category4
-   category5
-   category6
    
    
 Indices and tables
