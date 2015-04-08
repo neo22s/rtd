@@ -27,6 +27,7 @@ category1
 .. toctree::
     :maxdepth: 2
 
+    category1
     test-page
     test-page2
 
@@ -39,6 +40,7 @@ category2
 .. toctree::
     :maxdepth: 2
 
+    category2
     test-page
     test-page2
 
@@ -51,5 +53,6 @@ category3
 .. toctree::
     :maxdepth: 2
 
+    category3
     test-page
     test-page2
