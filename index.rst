@@ -20,8 +20,10 @@ Indices and tables
 
 .. _site-docs:
 
-category1
----------
+
+
+.. _category1
+-------------
 
 .. toctree::
     :maxdepth: 2
@@ -31,8 +33,8 @@ category1
 
 .. _feature-docs:
 
-category2
----------
+.. _category2
+-------------
 
 .. toctree::
     :maxdepth: 2
@@ -42,8 +44,8 @@ category2
 
 .. _business-docs:
 
-category3
----------
+.. _category3
+-------------
 
 .. toctree::
     :maxdepth: 2
