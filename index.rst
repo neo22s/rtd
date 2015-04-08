@@ -20,7 +20,9 @@ Indices and tables
 
 
 .. _category1:
---------------
+
+category1
+---------
 
 .. toctree::
     :maxdepth: 2
@@ -28,8 +30,11 @@ Indices and tables
     test-page
     test-page2
 
+    
 .. _category2:
---------------
+
+category2
+---------
 
 .. toctree::
     :maxdepth: 2
@@ -37,11 +42,14 @@ Indices and tables
     test-page
     test-page2
 
+    
 .. _category3:
---------------
+
+category3
+---------
 
 .. toctree::
     :maxdepth: 2
 
-   test-page
+    test-page
     test-page2
