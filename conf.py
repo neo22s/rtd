@@ -286,7 +286,7 @@ texinfo_documents = [
 #html_style = 'labibi.css'
 
 google_analytics_id = 'UA-36028965-1'
-disqus_shortname = 'labibi'
+disqus_shortname = 'k-rtd-demo'
 
 
 
