@@ -11,6 +11,8 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   test-page
+   test-page
 
 
 Indices and tables
@@ -20,23 +22,3 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 * :doc:`test-page`
-
-.. _site-docs:
-
-User Documentation
-------------------
-
-.. toctree::
-    :maxdepth: 2
-
-    test-page
-    test-page
-    
-Documentation
-------------------
-
-.. toctree::
-    :maxdepth: 2
-
-    test-page
-    test-page
