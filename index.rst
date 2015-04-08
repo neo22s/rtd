@@ -9,9 +9,12 @@ Welcome to demo's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
+   category1:
    test-page
+   
+   category2:
    test-page2
 
 
