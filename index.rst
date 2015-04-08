@@ -9,7 +9,7 @@ Welcome to demo's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    test-page
    test-page2
