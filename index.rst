@@ -12,7 +12,7 @@ Contents:
    :maxdepth: 2
 
    test-page
-   test-page
+   test-page2
 
 
 Indices and tables
