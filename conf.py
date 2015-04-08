@@ -284,3 +284,9 @@ texinfo_documents = [
 #texinfo_no_detailmenu = False
 
 #html_style = 'labibi.css'
+
+google_analytics_id = 'UA-36028965-1'
+disqus_shortname = 'labibi'
+
+
+
