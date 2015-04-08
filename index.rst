@@ -5,12 +5,12 @@
 
 Welcome to demo's documentation!
 ================================
+
    
    
 Indices and tables
 ==================
 
-* :ref:`site-docs`
 * :ref:`category1`
 * :ref:`category2`
 * :ref:`category3`
@@ -18,12 +18,9 @@ Indices and tables
 * :doc:`test-page2`
 
 
-.. _site-docs:
 
-
-
-.. _category1
--------------
+.. _category1:
+--------------
 
 .. toctree::
     :maxdepth: 2
@@ -31,10 +28,8 @@ Indices and tables
     test-page
     test-page2
 
-.. _feature-docs:
-
-.. _category2
--------------
+.. _category2:
+--------------
 
 .. toctree::
     :maxdepth: 2
@@ -42,10 +37,8 @@ Indices and tables
     test-page
     test-page2
 
-.. _business-docs:
-
-.. _category3
--------------
+.. _category3:
+--------------
 
 .. toctree::
     :maxdepth: 2
