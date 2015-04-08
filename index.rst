@@ -19,4 +19,6 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
+* :ref:`one`
+* :ref:`two`
+* :ref:`three`
