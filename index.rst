@@ -11,17 +11,54 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   category1:
-   test-page
    
-   category2:
-   test-page2
-
-
+   category2
+   category3
+   category4
+   category5
+   category6
+   
+   
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+* :ref:`site-docs`
+* :ref:`category1`
+* :ref:`category2`
+* :ref:`category3`
 * :doc:`test-page`
+* :doc:`test-page2`
+
+
+.. _site-docs:
+
+category1
+---------
+
+.. toctree::
+    :maxdepth: 2
+
+    test-page
+    test-page2
+
+.. _feature-docs:
+
+category2
+---------
+
+.. toctree::
+    :maxdepth: 2
+
+    test-page
+    test-page2
+
+.. _business-docs:
+
+category3
+---------
+
+.. toctree::
+    :maxdepth: 2
+
+   test-page
+    test-page2
