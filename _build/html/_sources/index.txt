@@ -17,8 +17,8 @@ Indices and tables
 ==================
 
 * :ref:`genindex`
+* :ref:`one`
 * :ref:`modindex`
 * :ref:`search`
-* :ref:`one`
 * :ref:`two`
 * :ref:`three`
