@@ -283,5 +283,4 @@ texinfo_documents = [
 # If true, do not generate a @detailmenu in the "Top" node's menu.
 #texinfo_no_detailmenu = False
 
-
-html_style = 'labibi.css'
+#html_style = 'labibi.css'
